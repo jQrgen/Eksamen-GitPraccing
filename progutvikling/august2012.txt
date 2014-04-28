@@ -1,0 +1,8 @@
+a) True
+b) True
+c) False, Det er så klart bare til en kunde når det er custom
+d) False, fuck the water fall model.
+e) True, check agilemanifesto.com. Her samarbeider man med kunden i tett dialog. I agile sier man at man skal sette et sammarbeid med kunden over kontrakten. 
+f) False, det er perfekt for små og medium softwareutvikling fordi verdiene til agile baserer seg på hypping kommunikasjon, og det er lettere å kommunisere når man er færre.
+g) True, det er en functional requirement fordi det er input -> output. Enkelt hva man skal gjøre, når man gjør det, skjer det.
+h) True, krav på oppetid og availability requirement er det samme
